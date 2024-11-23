@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adminsena\\Documents\\yeygok\\WebAppApiyey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3B0368-5532-4421-A989-5E84122C0AB9}|WebAppApiyey.csproj|c:\\users\\adminsena\\documents\\yeygok\\webappapiyey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3B0368-5532-4421-A989-5E84122C0AB9}|WebAppApiyey.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3B0368-5532-4421-A989-5E84122C0AB9}|WebAppApiyey.csproj|c:\\users\\adminsena\\documents\\yeygok\\webappapiyey\\services\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3B0368-5532-4421-A989-5E84122C0AB9}|WebAppApiyey.csproj|solutionrelative:services\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3B0368-5532-4421-A989-5E84122C0AB9}|WebAppApiyey.csproj|c:\\users\\adminsena\\documents\\yeygok\\webappapiyey\\services\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3B0368-5532-4421-A989-5E84122C0AB9}|WebAppApiyey.csproj|solutionrelative:services\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3B0368-5532-4421-A989-5E84122C0AB9}|WebAppApiyey.csproj|c:\\users\\adminsena\\documents\\yeygok\\webappapiyey\\model\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3B0368-5532-4421-A989-5E84122C0AB9}|WebAppApiyey.csproj|solutionrelative:model\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3B0368-5532-4421-A989-5E84122C0AB9}|WebAppApiyey.csproj|c:\\users\\adminsena\\documents\\yeygok\\webappapiyey\\model\\addupdateempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3B0368-5532-4421-A989-5E84122C0AB9}|WebAppApiyey.csproj|solutionrelative:model\\addupdateempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3B0368-5532-4421-A989-5E84122C0AB9}|WebAppApiyey.csproj|c:\\users\\adminsena\\documents\\yeygok\\webappapiyey\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3B0368-5532-4421-A989-5E84122C0AB9}|WebAppApiyey.csproj|solutionrelative:controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adminsena\\Documents\\yeygok\\WebAppApiyey\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Adminsena\\Documents\\yeygok\\WebAppApiyey\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:30:06.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Adminsena\\Documents\\yeygok\\WebAppApiyey\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\Adminsena\\Documents\\yeygok\\WebAppApiyey\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:26:43.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\Adminsena\\Documents\\yeygok\\WebAppApiyey\\Services\\EmpleadoService.cs",
+              "RelativeDocumentMoniker": "Services\\EmpleadoService.cs",
+              "ToolTip": "C:\\Users\\Adminsena\\Documents\\yeygok\\WebAppApiyey\\Services\\EmpleadoService.cs",
+              "RelativeToolTip": "Services\\EmpleadoService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:23:36.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\Adminsena\\Documents\\yeygok\\WebAppApiyey\\Services\\IEmpleadoService.cs",
+              "RelativeDocumentMoniker": "Services\\IEmpleadoService.cs",
+              "ToolTip": "C:\\Users\\Adminsena\\Documents\\yeygok\\WebAppApiyey\\Services\\IEmpleadoService.cs",
+              "RelativeToolTip": "Services\\IEmpleadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:19:12.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddUpdateEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\Adminsena\\Documents\\yeygok\\WebAppApiyey\\Model\\AddUpdateEmpleado.cs",
+              "RelativeDocumentMoniker": "Model\\AddUpdateEmpleado.cs",
+              "ToolTip": "C:\\Users\\Adminsena\\Documents\\yeygok\\WebAppApiyey\\Model\\AddUpdateEmpleado.cs",
+              "RelativeToolTip": "Model\\AddUpdateEmpleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:16:53.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Adminsena\\Documents\\yeygok\\WebAppApiyey\\Model\\Empleado.cs",
+              "RelativeDocumentMoniker": "Model\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Adminsena\\Documents\\yeygok\\WebAppApiyey\\Model\\Empleado.cs",
+              "RelativeToolTip": "Model\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:14:41.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
